@@ -53,7 +53,8 @@ It can be implemented in a business strategy to help improve it. Business strate
 
 
 # Defining system
-    ![Defining System](https://user-images.githubusercontent.com/94217787/143031014-a67b8bef-e597-49f4-915f-42a3538c77c2.png)
+    
+
 
 
 
