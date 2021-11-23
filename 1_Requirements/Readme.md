@@ -48,10 +48,12 @@ A variety of websites make a simple tic tac toe game available. Also used in bus
 It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In Tic-Tac-Toe, this is pretty straight forward: The first mover can choose the best position. In business, it is a bit more complicated. Even if business strategy is more complex, the principle is the same: Move swiftly when the time comes, go for an advantageous position.
 
 # SWOT ANALYSIS
-   
+   ![SWOT](https://user-images.githubusercontent.com/94217787/143030949-65aef336-4aa3-4808-9372-97ec433d89ba.png)
+
 
 
 # Defining system
-    
+    ![Defining System](https://user-images.githubusercontent.com/94217787/143031014-a67b8bef-e597-49f4-915f-42a3538c77c2.png)
+
 
 
