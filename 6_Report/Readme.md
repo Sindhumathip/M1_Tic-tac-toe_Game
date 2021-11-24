@@ -88,4 +88,10 @@ It can be implemented in a business strategy to help improve it. Business strate
 |LR07 |If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win.|HR05 |
 ||||
 |LR08 |If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. |HR06 |
+# Architecture
+## Behavioural diagram
+![Behavioral diagram](https://user-images.githubusercontent.com/94217787/143274067-0a369ef5-ce05-4c2a-b185-9f5001f79fcb.jpg)
+
+## structural diagram
+![Structural diagram](https://user-images.githubusercontent.com/94217787/143274124-4006b52e-6dd5-4aca-8ed5-ca774a658aad.jpg)
 
