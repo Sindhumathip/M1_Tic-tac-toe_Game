@@ -52,7 +52,7 @@ It can be implemented in a business strategy to help improve it. Business strate
 
 
 
-# Defining system
+
     
 
 
