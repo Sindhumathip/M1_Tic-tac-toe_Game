@@ -4,3 +4,4 @@
 ![code quality score](https://api.codiga.io/project/29985/score/svg)
 ![code grade](https://api.codiga.io/project/29985/status/svg)
 [![Git Inspector](https://github.com/Sindhumathip/M1_Tic-tac-toe_Game/actions/workflows/Git-Inspector.yml/badge.svg)](https://github.com/Sindhumathip/M1_Tic-tac-toe_Game/actions/workflows/Git-Inspector.yml)
+[![Unit Testing - Unity](https://github.com/Sindhumathip/M1_Tic-tac-toe_Game/actions/workflows/unity.yml/badge.svg)](https://github.com/Sindhumathip/M1_Tic-tac-toe_Game/actions/workflows/unity.yml)
