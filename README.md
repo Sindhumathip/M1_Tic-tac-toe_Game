@@ -3,3 +3,4 @@
 # Code Inspector badges
 ![code quality score](https://api.codiga.io/project/29985/score/svg)
 ![code grade](https://api.codiga.io/project/29985/status/svg)
+[![GitInspector](https://github.com/sindhumathip/M1_Tic-tac-toe_Game/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/sindhumathip/M1_Tic-tac-toe_Game/actions/workflows/git-inspector.yml)
